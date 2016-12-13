@@ -1,3 +1,11 @@
-brew 'jq'
+tap 'caskroom/cask'
+
+brew 'awscli'
+brew 'docker'
+brew 'elixir'
 brew 'hub'
+brew 'jq'
+brew 'kubernetes-cli'
 brew 'node'
+brew 'python'
+brew 'python3'
