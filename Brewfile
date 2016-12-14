@@ -10,7 +10,6 @@ tap 'homebrew/versions'
 # Apps
 cask 'backblaze'
 cask 'bartender'
-cask 'cloudapp'
 cask 'dropbox'
 cask 'google-chrome'
 cask 'graphiql'
@@ -53,6 +52,7 @@ mas 'Annotate', id: 918207447
 mas 'Aware', id: 1082170746
 mas 'BreakTime', id: 427475982
 mas 'Calca', id: 635758264
+mas 'CloudApp', id: 417602904
 mas 'Evernote', id: 406056744
 mas 'Fantastical', id: 975937182
 mas 'GIF Brewery', id: 1081413713
