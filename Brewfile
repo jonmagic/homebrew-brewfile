@@ -7,14 +7,6 @@ tap 'homebrew/core'
 tap 'homebrew/services'
 tap 'homebrew/versions'
 
-# Apps
-cask 'alfred'
-cask 'backblaze'
-cask 'bartender'
-cask 'dropbox'
-cask 'google-chrome'
-cask 'graphiql'
-
 # CLI apps
 brew 'awscli'
 brew 'curl'
@@ -35,6 +27,7 @@ cask 'atom'
 # Languages and runtimes
 cask 'docker'
 brew 'elixir'
+cask 'java'
 brew 'node'
 brew 'nodeenv'
 brew 'python'
@@ -42,7 +35,14 @@ brew 'python3'
 brew 'rbenv'
 brew 'ruby-build'
 
-# Music
+# Apps
+cask 'alfred'
+cask 'arduino'
+cask 'backblaze'
+cask 'bartender'
+cask 'dropbox'
+cask 'google-chrome'
+cask 'graphiql'
 cask 'spotify'
 
 # App Store Apps
