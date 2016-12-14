@@ -8,6 +8,7 @@ tap 'homebrew/services'
 tap 'homebrew/versions'
 
 # Apps
+cask 'alfred'
 cask 'backblaze'
 cask 'bartender'
 cask 'dropbox'
@@ -46,7 +47,6 @@ cask 'spotify'
 # App Store Apps
 mas '1Password', id: 443987910
 mas 'Acorn 5', id: 1019272813
-mas 'Alfred', id: 405843582
 mas 'Alternote', id: 974971992
 mas 'Annotate', id: 918207447
 mas 'Aware', id: 1082170746
