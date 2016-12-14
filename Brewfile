@@ -8,6 +8,9 @@ tap 'homebrew/services'
 tap 'homebrew/versions'
 
 # Apps
+cask 'backblaze'
+cask 'bartender'
+cask 'dropbox'
 cask 'google-chrome'
 cask 'graphiql'
 
