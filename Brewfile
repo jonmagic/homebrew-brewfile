@@ -18,6 +18,7 @@ brew 'hub'
 brew 'jq'
 brew 'kubernetes-cli'
 brew 'mas'
+brew 'watch'
 brew 'wget'
 
 # Communication
