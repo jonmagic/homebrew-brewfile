@@ -10,6 +10,7 @@ tap 'homebrew/versions'
 # Apps
 cask 'backblaze'
 cask 'bartender'
+cask 'cloudapp'
 cask 'dropbox'
 cask 'google-chrome'
 cask 'graphiql'
@@ -62,5 +63,4 @@ mas 'Screeny', id: 440991524
 mas 'Slack', id: 803453959
 mas 'The Unarchiver', id: 425424353
 mas 'Tweetbot', id: 557168941
-mas 'Xcode', id: 497799835
 mas 'You Need a Budget 4', id: 614680722
