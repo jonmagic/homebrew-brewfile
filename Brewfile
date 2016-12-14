@@ -1,5 +1,6 @@
 # Taps
 tap 'caskroom/cask'
+tap 'caskroom/fonts'
 tap 'caskroom/homebrew-versions'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
