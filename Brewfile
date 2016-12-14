@@ -43,6 +43,7 @@ cask 'bartender'
 cask 'dropbox'
 cask 'google-chrome'
 cask 'graphiql'
+cask 'screenhero'
 cask 'spotify'
 cask 'viscosity'
 
