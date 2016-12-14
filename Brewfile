@@ -44,6 +44,7 @@ cask 'dropbox'
 cask 'google-chrome'
 cask 'graphiql'
 cask 'spotify'
+cask 'viscosity'
 
 # App Store Apps
 mas '1Password', id: 443987910
