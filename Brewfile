@@ -27,6 +27,7 @@ cask 'atom'
 # Languages and runtimes
 cask 'docker'
 brew 'elixir'
+brew 'go'
 cask 'java'
 brew 'node'
 brew 'nodenv'
