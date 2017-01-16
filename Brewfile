@@ -15,6 +15,8 @@ brew 'hub'
 brew 'jq'
 brew 'kubernetes-cli'
 brew 'mas'
+brew 'nmap'
+brew 'tmux'
 brew 'watch'
 brew 'wget'
 
@@ -26,13 +28,15 @@ cask 'atom'
 
 # Languages and runtimes
 cask 'docker'
+brew 'docker-machine-driver-xhyve'
+brew 'doxygen'
 brew 'elixir'
 brew 'go'
 cask 'java'
-brew 'node'
+cask 'minikube'
 brew 'nodenv'
-brew 'python'
-brew 'python3'
+brew 'pyenv'
+brew 'pyenv-virtualenvwrapper'
 brew 'rbenv'
 brew 'ruby-build'
 
@@ -42,10 +46,10 @@ cask 'arduino'
 cask 'backblaze'
 cask 'bartender'
 cask 'dropbox'
-cask 'google-chrome'
 cask 'graphiql'
 cask 'screenhero'
 cask 'spotify'
+cask 'transmission'
 cask 'viscosity'
 
 # App Store Apps
@@ -60,6 +64,7 @@ mas 'CloudApp', id: 417602904
 mas 'Evernote', id: 406056744
 mas 'Fantastical', id: 975937182
 mas 'GIF Brewery', id: 1081413713
+mas 'iFlicks 2', id: 731062389
 mas 'Keynote', id: 409183694
 mas 'Kindle', id: 405399194
 mas 'Mactracker', id: 430255202
