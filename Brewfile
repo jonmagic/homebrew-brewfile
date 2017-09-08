@@ -8,12 +8,10 @@ tap 'homebrew/services'
 tap 'homebrew/versions'
 
 # CLI apps
-brew 'awscli'
 brew 'curl'
 brew 'git'
 brew 'hub'
 brew 'jq'
-brew 'kubernetes-cli'
 brew 'mas'
 brew 'nmap'
 brew 'tmux'
@@ -25,11 +23,12 @@ cask 'skype'
 
 # Editors
 cask 'atom'
+cask 'atom-beta'
 
 # Languages and runtimes
 cask 'docker'
-brew 'docker-machine-driver-xhyve'
-brew 'doxygen'
+# brew 'docker-machine-driver-xhyve'
+# brew 'doxygen'
 brew 'elixir'
 brew 'go'
 cask 'java'
@@ -39,6 +38,7 @@ brew 'pyenv'
 brew 'pyenv-virtualenvwrapper'
 brew 'rbenv'
 brew 'ruby-build'
+brew 'yarn'
 
 # Apps
 cask 'alfred'
@@ -47,6 +47,7 @@ cask 'backblaze'
 cask 'bartender'
 cask 'dropbox'
 cask 'graphiql'
+cask 'phoenix'
 cask 'screenhero'
 cask 'spotify'
 cask 'transmission'
