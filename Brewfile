@@ -52,6 +52,7 @@ cask 'screenhero'
 cask 'spotify'
 cask 'transmission'
 cask 'viscosity'
+cask 'visual-studio-code'
 
 # App Store Apps
 mas '1Password', id: 443987910
