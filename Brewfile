@@ -28,7 +28,7 @@ cask 'atom-beta'
 # Languages and runtimes
 brew 'elixir'
 brew 'go'
-cask 'java'
+brew 'jenv'
 brew 'nodenv'
 brew 'pyenv'
 brew 'pyenv-virtualenvwrapper'
