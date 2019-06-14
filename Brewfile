@@ -7,7 +7,7 @@ tap 'homebrew/services'
 
 # CLI apps
 brew 'curl'
-brew 'git'
+brew 'git', link: false
 brew 'hub'
 brew 'jq'
 brew 'kafkacat'
