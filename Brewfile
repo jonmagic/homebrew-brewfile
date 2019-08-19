@@ -18,13 +18,6 @@ brew 'tmux'
 brew 'watch'
 brew 'wget'
 
-# Communication
-cask 'skype'
-
-# Editors
-cask 'atom'
-cask 'atom-beta'
-
 # Languages and runtimes
 brew 'elixir'
 brew 'go'
@@ -49,7 +42,6 @@ cask 'viscosity'
 cask 'visual-studio-code'
 
 # App Store Apps
-mas '1Password', id: 443987910
 mas 'Acorn 5', id: 1019272813
 mas 'Annotate', id: 918207447
 mas 'Aware', id: 1082170746
